@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Larissa Boscatti
 
 - 🔭 Desenvolvedora fullstack
-- 🌱 Estudando Typescript
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando IA
 
 <div>
   <a href="https://github.com/Punk-Doll">
