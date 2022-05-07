@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Larissa Boscatti
 
-- 🔭 Desenvolvedora fullstack
-- 🌱 Estudando IA
+- 🔭 Dev fullstack
+- 🌱 Estudando typescript
 
 <div>
   <a href="https://github.com/Punk-Doll">
