@@ -1,7 +1,7 @@
-## Olá! Eu sou a Larissa Boscatti
+## Hey! How are doing? I'm Larissa Boscatti 
 
 - 🔭 Dev fullstack
-- 🌱 Estudando typescript
+- 🌱 studying typescript and nodeJs
 
 <div>
   <a href="https://github.com/Punk-Doll">
