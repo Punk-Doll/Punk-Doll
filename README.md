@@ -1,4 +1,4 @@
-## Hey! How are doing? My names Larissa = )
+## Hey! How are doing? My name's Larissa = )
 
 - 🔭 Dev fullstack
 - 🌱 studying typescript and nodeJs
